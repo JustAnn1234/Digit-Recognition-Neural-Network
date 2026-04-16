@@ -10,7 +10,7 @@ A machine learning project that recognizes handwritten digits (0-9) using a neur
 
 ## Demo
 
-The app is live at [https://your-app-link.streamlit.app](https://digit-recognition-neural-network-hlqdf4clkvrfdgkwhj9ls4.streamlit.app/)
+The app is live at (https://digit-recognition-neural-network-hlqdf4clkvrfdgkwhj9ls4.streamlit.app/)
 
 ## Installation
 
